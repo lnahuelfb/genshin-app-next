@@ -1,0 +1,87 @@
+.container {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  background-color: rgba(150, 242, 73, 0.5);
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.pyro {
+  background-color: rgba(253, 187, 98, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.hydro {
+  background-color: rgba(5, 30, 255, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.electro {
+  background-color: rgba(195, 0, 255, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.dendro {
+  background-color: rgba(41, 245, 0, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.geo {
+  background-color: rgba(189, 180, 54, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.cryo {
+  background-color: rgba(0, 197, 247, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.anemo {
+  background-color: rgba(0, 255, 234, 0.5);
+  width: 80%;
+  height: 80%;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
